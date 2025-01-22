@@ -54,6 +54,28 @@ Before diving into these scripts, ensure you have the following:
   - Variable declaration and assignment.
   - Using variables to store and manipulate data.
 
+#### `forLoop.sh`
+- **Purpose**: Demonstrates the use of `for` loops in shell scripting.
+- **Learning Objective**: Learn how to iterate over a list of items and a range of numbers.
+- **Key Concepts**:
+  - Using `for` loops to iterate over a list of items.
+  - Using `for` loops to iterate over a range of numbers.
+
+#### `whileLoop.sh`
+- **Purpose**: Demonstrates the use of `while` loops in shell scripting.
+- **Learning Objective**: Learn how to iterate with a condition and use a counter.
+- **Key Concepts**:
+  - Using `while` loops to iterate with a condition.
+  - Using `while` loops with a counter.
+
+#### `functions.sh`
+- **Purpose**: Demonstrates the use of functions in shell scripting.
+- **Learning Objective**: Learn how to define and call functions with and without arguments.
+- **Key Concepts**:
+  - Defining functions without arguments.
+  - Defining functions with arguments.
+  - Calling functions.
+
 ---
 
 ### How to Use These Scripts
@@ -76,6 +98,9 @@ Before diving into these scripts, ensure you have the following:
    ./passArgumentsToaBash.sh
    ./readUserInput.sh
    ./variable.sh
+   ./forLoop.sh
+   ./whileLoop.sh
+   ./functions.sh
    ```
 
 ---
